@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- © MaximAL 2016 -->
+<!-- @date 2016-08-09 -->
+<!-- @link http://maximals.ru -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="1020" height="1020" viewBox="0 0 1020 1020">
+	<g stroke="#000" fill="none">
+		<path d="m10 1010 500-1000 500 1000z" stroke-width="2"/>
+		<g stroke-width="1">
+			<path d="m110 810.5h800"/>
+			<path d="m210 610.5h600"/>
+			<path d="m310 410.5h400"/>
+			<path d="m410 210.5h200"/>
+		</g>
+	</g>
+	<g font-size="40px" font-family="sans-serif" fill="black" line-height="115%">
+		<text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" font-size="22.5px" y="144.36218" x="509.59351"><tspan y="144" x="509.59351">Двигает</tspan><tspan y="169.87518" x="509.59351">индустрию</tspan><tspan y="195.75018" x="509.59351">вперёд</tspan></text>
+		<text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" y="921.37714" x="510.63477">Типа работает</text>
+		<text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" y="725.25409" x="508.61328">Работает</text>
+		<text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" y="497.4201" x="509.98047"><tspan y="497.4201" x="509.98047">Хорошо</tspan><tspan y="543.4201" x="509.98047">спроектировано</tspan></text>
+		<text style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" y="320.4201" x="509.12109">Красиво</text>
+	</g>
+</svg>

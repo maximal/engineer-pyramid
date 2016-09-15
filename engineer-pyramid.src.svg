@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1020"
+   height="1020"
+   viewBox="0 0 1020 1020"
+   id="svg8103"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="engineer-pyramid.svg">
+  <defs
+     id="defs8105" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="541.11151"
+     inkscape:cy="488.77992"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2495"
+     inkscape:window-height="1416"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="1040,10"
+       orientation="0,1"
+       id="guide12583" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid12585" />
+    <sodipodi:guide
+       position="1110,1010"
+       orientation="0,1"
+       id="guide12587" />
+    <sodipodi:guide
+       position="10,50"
+       orientation="1,0"
+       id="guide12589" />
+    <sodipodi:guide
+       position="1010,890"
+       orientation="1,0"
+       id="guide12591" />
+    <sodipodi:guide
+       position="510,710"
+       orientation="1,0"
+       id="guide12593" />
+    <sodipodi:guide
+       position="80,610"
+       orientation="0,1"
+       id="guide12599" />
+    <sodipodi:guide
+       position="110,210"
+       orientation="0,1"
+       id="guide12607" />
+    <sodipodi:guide
+       position="120,410"
+       orientation="0,1"
+       id="guide12609" />
+    <sodipodi:guide
+       position="110,810"
+       orientation="0,1"
+       id="guide12611" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8108">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.362183)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 10,1042.3622 510,42.362183 1010,1042.3622 Z"
+       id="path12605"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110,842.36218 800,0"
+       id="path12613"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 210,642.36218 600,0"
+       id="path12615"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 310,442.36218 400,0"
+       id="path12617"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,242.36218 200,0"
+       id="path12619"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.59351"
+       y="176.36218"
+       id="text12621"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan12623"
+         x="509.59351"
+         y="176.36218"
+         style="font-size:22.5px;line-height:114.99999762%">Двигает</tspan><tspan
+         sodipodi:role="line"
+         x="509.59351"
+         y="202.23718"
+         id="tspan12625"
+         style="font-size:22.5px;line-height:114.99999762%">индустрию</tspan><tspan
+         sodipodi:role="line"
+         x="509.59351"
+         y="228.11218"
+         id="tspan12627"
+         style="font-size:22.5px;line-height:114.99999762%">вперёд</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="510.63477"
+       y="953.73914"
+       id="text12629"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan12631"
+         x="510.63477"
+         y="953.73914"
+         style="line-height:114.99999762%">Типа работает</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="508.61328"
+       y="757.61609"
+       id="text12633"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan12635"
+         x="508.61328"
+         y="757.61609"
+         style="line-height:114.99999762%">Работает</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.98047"
+       y="529.7821"
+       id="text12637"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan12639"
+         x="509.98047"
+         y="529.7821"
+         style="line-height:114.99999762%">Хорошо</tspan><tspan
+         sodipodi:role="line"
+         x="509.98047"
+         y="575.7821"
+         id="tspan12641"
+         style="line-height:114.99999762%">спроектировано</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:114.99999762%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.12109"
+       y="352.7821"
+       id="text12643"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan12645"
+         x="509.12109"
+         y="352.7821"
+         style="line-height:114.99999762%">Красиво</tspan></text>
+  </g>
+</svg>
